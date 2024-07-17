@@ -11,14 +11,14 @@
 ## Few custom commands and keymaps to remember
 
 * Zshrc Alias commands
-  * odn -> Open the developer note folder
-  * rdn -> Review the developer notes
+  * `odn` -> Open the developer note folder
+  * `rdn` -> Review the developer notes
 
 * Lazyvim Keymaps
-  * <leader>tn -> New developer note from template
-  * <leader>tf -> Format title of the developer note
-  * <leader>ok -> Keep the file and move
-  * <leader>odd-> Delete the file
+  * `<leader>tn` -> New developer note from template
+  * `<leader>tf` -> Format title of the developer note
+  * `<leader>ok` -> Keep the file and move
+  * `<leader>odd`-> Delete the file
 
 ## Few useful LazyVim default commands
 
